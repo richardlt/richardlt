@@ -1,0 +1,26 @@
+baseURL = "http://richardlt.github.io/"
+languageCode = "en-us"
+title = "Richard LT"
+theme = "aerial"
+
+[params]
+  name = "Richard LT"
+  about = "Software engineer"
+  copyright = "Richard LT"
+  bg_scroll = "false"
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/richardlte"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/richardlt"
+
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/richard-le-terrier-22097165/"
